@@ -36,7 +36,7 @@ result.style.color = "red"
 
 
 else if(input.value >= 33 && input.value <40 ){
- result.innerHTML = `<span> Your Got D Grade</span>`
+ result.innerHTML = `<span> You Got D Grade</span>`
 result.style.color = "coral"
     input.value = "";
 
@@ -44,7 +44,7 @@ result.style.color = "coral"
 }
 
 else if(input.value >= 40 && input.value <50 ){
- result.innerHTML = `<span> Your Got c Grade</span>`
+ result.innerHTML = `<span> You Got C Grade</span>`
 result.style.color = "yellow"
     input.value = "";
 
@@ -52,7 +52,7 @@ result.style.color = "yellow"
 }
 
 else if(input.value >= 50 && input.value <60 ){
- result.innerHTML = `<span> Your Got B Grade</span>`
+ result.innerHTML = `<span> You Got B Grade</span>`
 result.style.color = "rgb(192, 205, 50)"
     input.value = "";
 
@@ -60,7 +60,7 @@ result.style.color = "rgb(192, 205, 50)"
 }
 
 else if(input.value >= 60 && input.value <70 ){
- result.innerHTML = `<span> Your Got A- </span>`
+ result.innerHTML = `<span> You Got A- </span>`
 result.style.color = "yellow"
     input.value = "";
 
